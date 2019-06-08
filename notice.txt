@@ -4,8 +4,7 @@
 # 2019/06/09 - 1.0.4.3
 - 트위치 클립 관련 변경사항 수정
 
-# 2019/06/08 - 1.0.4.1
-- UI 편의성 업데이트 추가 https://leddown.tistory.com/92
+UI 편의성 업데이트 추가 https://leddown.tistory.com/92
 
 # 추천인 할인제도가 추가되었습니다.
 자세한사항은 https://leddown.tistory.com/90
