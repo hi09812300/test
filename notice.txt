@@ -1,6 +1,9 @@
 # 공지
 만약 문제가 있으면 https://leddown.tistory.com 에 방문해주세요.
 
+상업용 라이센스 요금제 세분화
+https://leddown.tistory.com/19#comm
+
 # 2019/06/17 - 1.0.4.8
 - V Live 플레이리스트 오류 수정
 - 플레이리스트에서 발생할수 있는 오류 수정
