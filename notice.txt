@@ -14,9 +14,4 @@ SBS나 MNet 같은경우 유료 구매없이 풀 영상이 받아지는 오류�
 상업용 라이센스 요금제
 https://leddown.tistory.com/19#comm
 
-UI 편의성 업데이트 추가 https://leddown.tistory.com/92
-
-# 추천인 할인제도가 추가되었습니다.
-자세한사항은 https://leddown.tistory.com/90
-
 구입 문의 : https://open.kakao.com/o/sOHvpFgb
