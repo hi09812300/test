@@ -2,6 +2,10 @@
 원하는 사이트가 지원이 안된다면?
 https://leddown.tistory.com/115
 
+- 'log.json 파일을 찾을수 없습니다' 오류 안내
+신규 설치시 배포파일에 해당파일이 없이 배포되었습니다.
+해결방법 : https://leddown.tistory.com/125
+
 # 2019/07/02 - 1.0.5.7
 - 아프리카TV 영상 한개로 합치는 기능 추가
 https://leddown.tistory.com/122
