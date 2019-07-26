@@ -16,6 +16,6 @@
 	"qlapdh":true,
 	"xmdnlxj":true,
 	"dign":true,
-	"xlqlwhtjs":true,
-	"wpdlxlqlTl":true
+	"xlqlwhtjs":false,
+	"wpdlxlqlTl":false
 }
