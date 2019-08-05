@@ -6,7 +6,7 @@
 	"qmdldoq":true,
 	"spdlqj":true,
 	"zkzkdhxlql":true,
-	"dptmqldptm":true,
+	"dptmqldptm":false,
 	"dpaqlTl":true,
 	"xlqld":true,
 	"dlstmxk":true,
