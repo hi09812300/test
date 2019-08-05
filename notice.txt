@@ -6,6 +6,8 @@ https://leddown.tistory.com/115
 본인이 업로더라면? 사업자용 이용료를 내셔야 됩니다.
 무료 라이센스에서 상업용도 사용시 영구 이용 정지사유 입니다.
 
+# 예약 다운로드 목록 저장 기능 https://leddown.tistory.com/154
+
 # 트위치 로그인 추가 (Beta) https://leddown.tistory.com/151
 
 # 영상 편집 기능 추가 https://leddown.tistory.com/142
