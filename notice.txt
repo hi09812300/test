@@ -6,11 +6,9 @@ https://leddown.tistory.com/115
 * 회사에서 / 업무용도 이용시
 라이센스 구매를 해주세요
 
-# 예약 다운로드 목록 저장 기능 https://leddown.tistory.com/154
-
-# 트위치 로그인 추가 (Beta) https://leddown.tistory.com/151
-
-# 영상 편집 기능 추가 https://leddown.tistory.com/142
+# 2019/08/09 - 1.0.7.6
+예약 다운로드 오류가 있어서 수정되었습니다.
+(오류 : 리스트 생성되고 바로 완료 표시 등)
 
 # V LIVE 상태 코드 추가 (이벤트 라이브,이벤트 VOD, 앱 전용 영상안내 추가)
 일부영상 정상 재생가능 상태인데 다운로드 안되던 오류 수정
