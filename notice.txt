@@ -10,9 +10,6 @@ https://leddown.tistory.com/115
 라이브 : 가능한 최초시점부터 다운추가(유튜브)
 https://leddown.tistory.com/163
 
-# V LIVE 상태 코드 추가 (이벤트 라이브,이벤트 VOD, 앱 전용 영상안내 추가)
-일부영상 정상 재생가능 상태인데 다운로드 안되던 오류 수정
-
 - 실시간 인기순위 100포인트당 1만원에 결정됐습니다.
 이번달은 총 500포인트만 판매할 계획이며 선착순입니다.
 기존 유료사용자는 문의시 테스트용 1포인트를 제공합니다.
@@ -20,9 +17,6 @@ https://leddown.tistory.com/135
 
 플랫폼 운영 회사 전용 문의
 https://leddown.tistory.com/136
-
-추천인 이벤트가 ~7/31 까지만 실시될 예정입니다.
-https://leddown.tistory.com/131
 
 상업용 라이센스 요금제
 https://leddown.tistory.com/19#comm
