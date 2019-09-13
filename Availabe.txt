@@ -11,7 +11,7 @@
 	"xlqld":true,
 	"dlstmxk":true,
 	"vpqnr":true,
-	"dpaspt":true,
+	"dpaspt":false,
 	"vksehfk":true,
 	"qlapdh":true,
 	"xmdnlxj":true,
