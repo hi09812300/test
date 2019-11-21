@@ -2,8 +2,6 @@
 * 유튜브등 배포시 / 회사,기관에서 또는 업무용도 이용시
 라이센스 구매를 해주세요
 
-# 19-11-19 : 트위치(Live) 광고문제 임시 해결 됨
-
 # 자주 묻는 질문
 - 주소 형식 리스트 https://leddown.tistory.com/10#enable
 - 실시간 다운로드 1시간? https://leddown.tistory.com/16#Q1
