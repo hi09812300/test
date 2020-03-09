@@ -12,6 +12,9 @@ https://leddown.tistory.com/200
 - 다운로드 리스트 정리? https://leddown.tistory.com/16#Q9
 - 업로딩 정지? https://leddown.tistory.com/16#Q10
 
+# yiff.party vimeo영상 추출기 한정판매(~2020-04-30)
+https://leddown.tistory.com/213
+
 # 업로드 자동 차단 정책이 일부 완화되어 기존 차단 사용자들중 일부가 해제됩니다.
 기존 1회 영구 정지 -> 24시간 정지
 2회 -> 영구 정지로 변경되었습니다.
