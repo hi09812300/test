@@ -5,6 +5,9 @@
 * 2020/12/10 까지 업데이트를 지원합니다.
 https://leddown.tistory.com/200
 
+# Afreeca Tv 다시보기 다운에러 발생 (20/03/05)
+- 문제 확인중입니다.
+
 # 자주 묻는 질문
 - 주소 형식 리스트 https://leddown.tistory.com/10#enable
 - 실시간 다운로드 1시간? https://leddown.tistory.com/16#Q1
