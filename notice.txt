@@ -6,7 +6,7 @@
 https://leddown.tistory.com/200
 
 # Afreeca Tv 다시보기 다운에러 발생 (20/03/05)
-- 문제 확인중입니다.
+- 20/03/05 수정되었습니다.
 
 # 자주 묻는 질문
 - 주소 형식 리스트 https://leddown.tistory.com/10#enable
