@@ -7,7 +7,8 @@ https://leddown.tistory.com/200
 
 # 2020/04/09 - 1.1.0.4
 - V Live 다시보기 다운로드 오류수정
-- 네이버 다운로드 제한속도 상향(일부 유저에서)
+- 네이버 다운로드 제한속도 상향
+기존 5Mbps -> 업데이트후 50Mbps(유료사용자만 지원)
 
 # 자주 묻는 질문
 - 주소 형식 리스트 https://leddown.tistory.com/10#enable
