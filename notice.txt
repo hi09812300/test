@@ -5,6 +5,9 @@
 * 2020/12/10 까지 업데이트를 지원합니다.
 https://leddown.tistory.com/200
 
+# 트위치 공식API 오류로 실시간 영상 검색에 오류가 있습니다.
+https://leddown.tistory.com/223
+
 # 2020/04/15 - 1.1.0.5
 - 트위치 Break In Progress 오류수정
 - 아프리카 실시간 다운시 리스트 표기변경 "제목"(기존) -> "BJ명 : 제목"(변경)
