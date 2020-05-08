@@ -6,6 +6,7 @@
 https://leddown.tistory.com/200
 
 # 트위치 라이브 오류 수정되었습니다.
+혹시 안되시는게 있으시다면 문의바랍니다.
 https://leddown.tistory.com/223
 
 # 2020/04/15 - 1.1.0.5
