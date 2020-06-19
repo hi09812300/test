@@ -1,1 +1,1 @@
-https://leddown.iptime.org/buy.php
+https://api.delivery-a.com/buy.php
