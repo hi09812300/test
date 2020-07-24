@@ -5,6 +5,11 @@
 * 2020/12/10 까지 업데이트를 지원합니다.
 https://leddown.tistory.com/200
 
+# 2020/07/24 - 1.1.1.6
+- 큐다운로드 결합시 제목포함
+- 영상 결합툴 추가됨
+https://leddown.tistory.com/233
+
 아프리카 영상검색이 안되는 오류시 안내
 https://leddown.tistory.com/232
 
