@@ -2,5 +2,6 @@
 	"set":{
 		"af_b":["index-f"],
 		"af_a":["index-f1"],
-	}
+	},
+	"twitch_live":false
 }
