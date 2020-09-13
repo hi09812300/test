@@ -5,8 +5,9 @@
 * 2020/12/10 까지 업데이트를 지원합니다.
 https://leddown.tistory.com/200
 
-# 트위치 라이브 오류안내
-https://leddown.tistory.com/235
+# 2020/09/13 - 1.1.1.7
+- 트위치 Commercial break in progress 오류수정
+https://leddown.tistory.com/236
 
 아프리카 영상검색이 안되는 오류시 안내
 https://leddown.tistory.com/232
