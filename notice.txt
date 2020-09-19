@@ -5,6 +5,9 @@
 # 먼저 공지사항을 읽고 문의를 남기시기 바랍니다.
 https://leddown.tistory.com/243
 
+# 아프리카 싱크 문제?
+https://leddown.tistory.com/244
+
 # 아프리카 로그인 문제 수정 1.1.2.1
 기존 로그인 사용자는 로그아웃하신후 다시 로그인 해주세요!
 https://leddown.tistory.com/238
