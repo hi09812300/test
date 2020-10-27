@@ -5,8 +5,8 @@
 * 2020/12/10 까지 업데이트를 지원합니다.
 https://leddown.tistory.com/200
 
-# 아프리카 싱크 문제 제보 부탁드립니다?
-https://leddown.tistory.com/244
+# 아프리카 끊김현상 안내
+https://leddown.tistory.com/256
 
 # 자주 묻는 질문
 - 주소 형식 리스트 https://leddown.tistory.com/10#enable
