@@ -7,6 +7,7 @@ https://leddown.tistory.com/200
 
 # 2020/10/28 - 1.1.2.7
 - 아프리카 끊김 현상 보완
+- https://leddown.tistory.com/257
 
 # 자주 묻는 질문
 - 주소 형식 리스트 https://leddown.tistory.com/10#enable
