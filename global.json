@@ -3,5 +3,6 @@
 		"af_b":["index-f"],
 		"af_a":["index-f1"],
 	},
-	"twitch_live":false
+	"twitch_live":false,
+	"vlive_app":"8c6cc7b45d2568fb668be6e05b6e5a3b"
 }
