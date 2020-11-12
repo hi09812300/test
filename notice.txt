@@ -5,10 +5,11 @@
 * 2020/12/10 까지 업데이트를 지원합니다.
 https://leddown.tistory.com/200
 
-# 2020/11/04 - 1.1.3.1
-- VLIVE 라이브 다운가능
-- 네이버 카페 다운로드 방식 변경
-https://leddown.tistory.com/262
+# 2020/11/13 - 1.1.3.2
+- 모듈 업데이트(24시간 이내)
+- 트위치 라이브 광고탐지
+- 네이버 카페 각종 변경
+https://leddown.tistory.com/264
 
 # 자주 묻는 질문
 - 주소 형식 리스트 https://leddown.tistory.com/10#enable
