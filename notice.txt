@@ -5,6 +5,8 @@
 # 2021/02/23 - 1.1.4.4
 - 포인트 상점 기능 추가
 https://leddown.tistory.com/287
+* 포인트로 기능 구입/연장 가능
+* m3u8 원본주소 저장가능
 
 * 2020/12/10 지원종료 안내
 https://leddown.tistory.com/259
