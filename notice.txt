@@ -5,9 +5,6 @@ https://leddown.tistory.com/289
 - 네이버 카페 안내 추가
 - 이용 규칙 개선
 
-# 02/26 포인트로 구입시 오류 핫픽스
-포인트가 있음에도 구입실패 오류수정
-
 * 2020/12/10 지원종료 안내
 https://leddown.tistory.com/259
 
