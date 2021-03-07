@@ -1,3 +1,9 @@
+[공지] 트위치 클립주소 https://clips.twitch.tv/*
+클립 다운로드시 오류 발생안내
+https://clips.twitch.tv/*?tt_content=url&tt_medium=clips_api
+"?" 뒷부분이 생략된 경우 검색오류가 현재 버전에 있습니다.
+다운로드가 안될경우 주소 끝에 ?를 붙여넣은후 검색해보세요.
+
 # 2021/03/02 - 1.1.4.5
 https://leddown.tistory.com/289
 - 로그 시스템 생성
