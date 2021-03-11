@@ -1,8 +1,7 @@
-# 2021/03/08 - 1.1.4.7
-https://leddown.tistory.com/291
-- Vimeo 비공개 영상주소 전용모듈 추가
-- 로그 시스템 개선 : 파일 생성/변경 로그추가
-- 트위치 클립주소 오류수정
+# 2021/03/12 - 1.1.4.8
+https://leddown.tistory.com/294
+- 윈도우 내장 브라우저 문제 필수에서 선택방식으로 변경
+- Google Drive 다운로드 전용 모듈 추가
 
 * 2020/12/10 지원종료 안내
 https://leddown.tistory.com/259
