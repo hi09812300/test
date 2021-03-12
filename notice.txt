@@ -18,5 +18,4 @@ https://leddown.tistory.com/275
 - 실시간 다운로드 1시간? https://leddown.tistory.com/16#Q1
 - 특정 플랫폼만 다운 불가? https://leddown.tistory.com/16#Q3
 - 다운로드 리스트 정리? https://leddown.tistory.com/16#Q9
-- 업로딩 정지? https://leddown.tistory.com/16#Q10
 - 이 OS 플랫폼에..? https://leddown.tistory.com/226
