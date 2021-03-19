@@ -1,5 +1,9 @@
 # 업데이트 및 유지관리에 구입(후원)은 큰 도움이 됩니다
 
+# 2021/03/20 - 1.1.5.9
+https://leddown.tistory.com/306
+- 잘못된 파일문자제거 함수수정
+
 # 2021/03/19 - 1.1.5.8
 https://leddown.tistory.com/305
 - 32bit OS FFmpeg 오류안내 미처리부분 수정
