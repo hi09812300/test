@@ -1,5 +1,8 @@
 # 업데이트 및 유지관리에 구입(후원)은 큰 도움이 됩니다
 
+# [공지] 로그인(인증) 관련 버그안내
+https://leddown.tistory.com/314
+
 # 2021/03/28 - 1.1.6.4
 https://leddown.tistory.com/313
 - Vimeo 지원안되는 URL처리 (Vimeo전용모듈)
