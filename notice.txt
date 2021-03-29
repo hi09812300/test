@@ -38,6 +38,16 @@ https://leddown.tistory.com/313
 * 2020/12/10 지원종료 안내
 https://leddown.tistory.com/259
 
+# 지원하는 문의사항
+https://leddown.tistory.com/15
+- [구입] 결제 관련 오류 문의
+- [구입] 업그레이드 문의
+- [구입/이용] 포인트 상점 문의
+- [이용] 로그인 관련(유료 계정만 가능)
+- [부가기능] Vimeo 비공개 영상주소 전용모듈 관련
+- [부가기능] 트위치 광고 스킵모듈 관련
+- [부가기능] Google Drive 관련
+
 실시간 인기순위를 일부 요금제에서 무료로 제공합니다.
 https://leddown.tistory.com/275
 
