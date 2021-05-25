@@ -5,6 +5,9 @@ https://leddown.tistory.com/314
 회원가입시 특수문자 ',",?,<,>,$,%,(,{,[ 를 사용한 경우에
 버그로 자동로그인, 포인트상점등 이용불가한경우 확인되었습니다.
 
+# 유튜브 404 오류 안내
+https://leddown.tistory.com/319
+
 # 2021/04/05 - 1.1.6.8
 https://leddown.tistory.com/318
 - 트위치 초기리소스 로딩방식변경
