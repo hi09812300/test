@@ -2,13 +2,10 @@
     "twitch_live": false,
     "vlive_app": "8c6cc7b45d2568fb668be6e05b6e5a3b",
     "twitch": {
-        "vod_b": "{\"operationName\":\"PlaybackAccessToken\",\"variables\":{\"isLive\":false,\"login\":\"\",\"isVod\":true,\"vodID\":\"",
-        "vod_a": "\",\"playerType\":\"site\"},\"extensions\":{\"persistedQuery\":{\"version\":1,\"sha256Hash\":\"0828119ded1c13477966434e15800ff57ddacf13ba1911c129dc2200705b0712\"}}}",
         "vod": "{\"operationName\":\"PlaybackAccessToken\",\"variables\":{\"isLive\":false,\"login\":\"\",\"isVod\":true,\"vodID\":\"{0}\",\"playerType\":\"site\"},\"extensions\":{\"persistedQuery\":{\"version\":1,\"sha256Hash\":\"0828119ded1c13477966434e15800ff57ddacf13ba1911c129dc2200705b0712\"}}}",
         "live": "{\"operationName\":\"PlaybackAccessToken\",\"variables\":{\"isLive\":true,\"login\":\"{0}\",\"isVod\":false,\"vodID\":\"\",\"playerType\":\"site\"},\"extensions\":{\"persistedQuery\":{\"version\":1,\"sha256Hash\":\"0828119ded1c13477966434e15800ff57ddacf13ba1911c129dc2200705b0712\"}}}",
         "clip": "{\"operationName\":\"ClipsDownloadButton\",\"variables\":{\"slug\":\"{0}\"},\"extensions\":{\"persistedQuery\":{\"version\":1,\"sha256Hash\":\"6e465bb8446e2391644cf079851c0cb1b96928435a240f07ed4b240f0acc6f1b\"}}}",
-        "live_b": "{\"operationName\":\"PlaybackAccessToken\",\"variables\":{\"isLive\":true,\"login\":\"",
-        "live_a": "\",\"isVod\":false,\"vodID\":\"\",\"playerType\":\"site\"},\"extensions\":{\"persistedQuery\":{\"version\":1,\"sha256Hash\":\"0828119ded1c13477966434e15800ff57ddacf13ba1911c129dc2200705b0712\"}}}",
+        "clip2": "{\"operationName\":\"VideoAccessToken_Clip\",\"variables\":{\"slug\":\"{0}\"},\"extensions\":{\"persistedQuery\":{\"version\":1,\"sha256Hash\":\"36b89d2507fce29e5ca551df756d27c1cfe079e2609642b4390aa4c35796eb11\"}}}",
         "login_valid": "{\"operationName\":\"CoreActionsCurrentUser\",\"variables\":{},\"extensions\":{\"persistedQuery\":{\"version\":1,\"sha256Hash\":\"6b5b63a013cf66a995d61f71a508ab5c8e4473350c5d4136f846ba65e8101e95\"}}}"
     }
 }
