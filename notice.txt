@@ -6,6 +6,7 @@ https://leddown.tistory.com/314
 버그로 자동로그인, 포인트상점등 이용불가한경우 확인되었습니다.
 
 # 유료기능 이름변경 '일반' → '프리미엄'
+https://leddown.tistory.com/328
 
 # 테스트용 폴더 생성에 실패하였습니다. 안내
 https://leddown.tistory.com/327
