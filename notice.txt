@@ -3,12 +3,6 @@
 # [공지] 로그인관련 일부사용자 버그안내(회원가입시 특수문자사용)
 https://leddown.tistory.com/314
 
-# 유료기능 이름변경 '일반' → '프리미엄'
-https://leddown.tistory.com/328
-
-# 테스트용 폴더 생성에 실패하였습니다. 안내
-https://leddown.tistory.com/327
-
 # 2021/07/17 - 1.1.7.3
 https://leddown.tistory.com/330
 - 폴더생성 가능여부 체크안내 보완, 도움말 추가
@@ -20,6 +14,12 @@ https://leddown.tistory.com/330
 - 포인트상점 새로운 기능추가 (βeta 버전기능, 프리미엄 이상 이용가능)
 - 포인트상점 서버 최적화(속도향상, 기능추가)
 - 아프리카 팬가입이 필요한 VOD 안내추가
+
+# 유료기능 이름변경 '일반' → '프리미엄'
+https://leddown.tistory.com/328
+
+# 테스트용 폴더 생성에 실패하였습니다. 안내
+https://leddown.tistory.com/327
 
 * 2020/12/10 지원종료 안내
 https://leddown.tistory.com/259
