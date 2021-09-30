@@ -1,5 +1,8 @@
 # 업데이트 및 유지관리에 구입(후원)은 큰 도움이 됩니다
 
+# [공지] 오래된 기기에서 SSL 미지원 이슈
+https://leddown.tistory.com/334
+
 # [공지] 로그인관련 일부사용자 버그안내(회원가입시 특수문자사용)
 https://leddown.tistory.com/314
 
