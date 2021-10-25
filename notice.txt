@@ -3,7 +3,11 @@
 # [공지] 로그인관련 일부사용자 버그안내(회원가입시 특수문자사용)
 https://leddown.tistory.com/314
 
-# 유튜브 다운속도 느림현상 확인중
+# 2021/10/26 - 1.1.7.9
+https://leddown.tistory.com/338
+* 유튜브 속도저하 문제해결
+- 오류해결방법 추가
+
 
 # 2021/10/23 - 1.1.7.8
 https://leddown.tistory.com/337
