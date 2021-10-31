@@ -3,6 +3,9 @@
 # [공지] 로그인관련 일부사용자 버그안내(회원가입시 특수문자사용)
 https://leddown.tistory.com/314
 
+# [공지] 아프리카 로그인 연동 문제?
+https://leddown.tistory.com/341
+
 # 2021/10/31 - 1.1.8.1
 https://leddown.tistory.com/340
 - 유튜브 정상화
