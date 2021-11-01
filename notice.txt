@@ -3,10 +3,8 @@
 # [공지] 로그인관련 일부사용자 버그안내(회원가입시 특수문자사용)
 https://leddown.tistory.com/314
 
-# [공지] 아프리카 로그인 연동 문제?
-https://leddown.tistory.com/341
-
 # 2021/11/01 - 1.1.8.2
+https://leddown.tistory.com/342
 - 로그인 연동오류 수정
 
 # 유료기능 이름변경 '일반' → '프리미엄'
