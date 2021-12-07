@@ -2,6 +2,7 @@
     "dlp": true,
     "twitch_live": false,
     "vlive_app": "8c6cc7b45d2568fb668be6e05b6e5a3b",
+    "twitch_app": "kimne78kx3ncx6brgo4mv6wki5h1ko",
     "twitch": {
         "vod": "{\"operationName\":\"PlaybackAccessToken\",\"variables\":{\"isLive\":false,\"login\":\"\",\"isVod\":true,\"vodID\":\"{0}\",\"playerType\":\"site\"},\"extensions\":{\"persistedQuery\":{\"version\":1,\"sha256Hash\":\"0828119ded1c13477966434e15800ff57ddacf13ba1911c129dc2200705b0712\"}}}",
         "vodlist":"[{\"operationName\":\"ChannelVideoShelvesQuery\",\"variables\":{\"channelLogin\":\"{0}\",\"first\":5},\"extensions\":{\"persistedQuery\":{\"version\":1,\"sha256Hash\":\"fb663273aa958ebe2f58d5fcb3aacc112d67ebfd7f414b095c5d1498d21aad92\"}}}]",
