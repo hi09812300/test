@@ -3,6 +3,9 @@
 # [공지] 로그인관련 일부사용자 버그안내(회원가입시 특수문자사용시)
 https://leddown.tistory.com/314
 
+# 1월 ~ 2월쯤 업데이트 예정사항안내
+https://leddown.tistory.com/345
+
 # 2021/12/08 - 1.1.8.3
 https://leddown.tistory.com/344
 - 트위치 오류수정
