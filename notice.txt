@@ -3,6 +3,9 @@
 # [공지] 로그인관련 일부사용자 버그안내(회원가입시 특수문자사용시)
 https://leddown.tistory.com/314
 
+# 웹 브라우저를 다시 교체할 예정입니다.
+https://leddown.tistory.com/351
+
 # 2022/01/20 - 1.1.8.4
 https://leddown.tistory.com/346
 - 웹 브라우저 교체 작업 (로그인 연동 해제될 수 있음)
