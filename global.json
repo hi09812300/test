@@ -1,6 +1,6 @@
 {
     "dlp": true,
-    "dlp_live": false,
+    "dlp_live": true,
     "twitch_live": false,
     "vlive_app": "8c6cc7b45d2568fb668be6e05b6e5a3b",
     "twitch_app": "kimne78kx3ncx6brgo4mv6wki5h1ko",
