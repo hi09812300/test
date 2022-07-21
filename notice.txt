@@ -4,7 +4,6 @@
 https://leddown.tistory.com/366
 - 유튜브 연령제한 안내추가
 - 일부 버그 수정
-- 아프리카 구독자전용 영상 권한없을때 안내추가
 
 # 2022/07/19 - 1.2.0.0
 https://leddown.tistory.com/365
