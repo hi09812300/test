@@ -1,6 +1,7 @@
 ## (예정)
 - Headless Edge 적용
   - Naver 구조변경 (자체 -> Headless Edge)
+    - 카페는 제외, Edge를 통해 지원범위 향상
   - Kick 구조변경 (Edge -> Headless Edge)
 
 ## 2023/09/07 - 1.2.6.5
