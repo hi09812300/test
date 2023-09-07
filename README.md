@@ -1,3 +1,8 @@
+## (예정)
+- Headless Edge 적용
+  - Naver 구조변경 (자체 -> Headless Edge)
+  - Kick 구조변경 (Edge -> Headless Edge)
+
 ## 2023/09/07 - 1.2.6.5
 - 화질분석시 모든 네트워크오류를 Timeout로 판단하는 문제수정
 - Naver Now URL변경 적용
