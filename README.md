@@ -3,6 +3,7 @@
   - Naver 구조변경 (자체 -> Headless Edge)
     - 카페는 기존대로, Edge를 통해 지원범위 향상
   - Kick 구조변경 (Edge -> Headless Edge)
+  - Twitter 구조변경 (외부모듈 -> Headless Edge)
 - 멀티다운로드 중복 확인과정 추가
 
 ## 2023/09/07 - 1.2.6.5
