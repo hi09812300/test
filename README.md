@@ -1,9 +1,9 @@
 ## (예정)
 - Headless Edge 적용
   - Naver 구조변경 (자체 -> Headless Edge)
-    - 카페는 기존대로, Edge를 통해 지원범위 향상
   - Kick 구조변경 (Edge -> Headless Edge)
   - Twitter 구조변경 (외부모듈 -> Headless Edge)
+  - (Beta) Daum/Kakao 지원 추가
 - 멀티다운로드 중복 확인과정 추가
 - [예약] 제목저장 해제방법 추가
 - [예약] 트위치 화질선택이 안될수 있는 문제 수정
