@@ -1,4 +1,4 @@
-## (예정)
+## 2023/09/16 - 1.2.6.6
 - Headless Edge 적용
   - Naver 구조변경 (자체 -> Headless Edge)
   - Kick 구조변경 (Edge -> Headless Edge)
