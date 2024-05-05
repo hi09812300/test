@@ -1,5 +1,8 @@
 # 업데이트 및 유지관리에 구입(후원)은 큰 도움이 됩니다
 
+# 치지직 다시보기 바로완료?
+http://led.hi098123.com/features/download-chzzk#known-issue-vod-format
+
 # 아프리카 화질선택 오류??
 https://led.hi098123.com/notice/afreecatv-resolution
 
