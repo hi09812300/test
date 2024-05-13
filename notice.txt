@@ -1,5 +1,12 @@
 # 업데이트 및 유지관리에 구입(후원)은 큰 도움이 됩니다
 
+# 2024/05/13 - 1.2.7.7
+https://led.hi098123.com/update/1.2.7.7
+- 외부모듈 오류 메시지, 비밀번호 입력 등 상호작용 문제 수정
+  - Youtube, Vimeo 등 메시지 출력과 상호작용이 필요한 경우
+- 치지직, 네이버 Vod 다운로드 안정성 강화
+  - 대체방식은 Vod 시간 진행량 표시되지 않으며, 시간조절 불가
+
 # 치지직 다시보기/클립 바로완료?
 http://led.hi098123.com/features/download-chzzk#known-issue-vod-format
 
