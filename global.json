@@ -18,5 +18,6 @@
         "s1": "{\"operationName\":\"ComscoreStreamingQuery\",\"variables\":{\"channel\":\"{0}\",\"clipSlug\":\"\",\"isClip\":false,\"isLive\":true,\"isVodOrCollection\":false,\"vodID\":\"\"},\"extensions\":{\"persistedQuery\":{\"version\":1,\"sha256Hash\":\"e1edae8122517d013405f237ffcc124515dc6ded82480a88daef69c83b53ac01\"}}}",
         "s2": "{\"operationName\":\"StreamMetadata\",\"variables\":{\"channelLogin\":\"{0}\"},\"extensions\":{\"persistedQuery\":{\"version\":1,\"sha256Hash\":\"059c4653b788f5bdb2f5a2d2a24b0ddc3831a15079001a3d927556a96fb0517f\"}}}"
     },
-    "afreecaBJ":"https://bjapi.afreecatv.com/api/{0}/vods/all?page=1&per_page=20&orderby=reg_date&field=title%2Ccontents&created=false&catchCreated=true&keyword=&months="
+    "afreecaBJ":"https://bjapi.afreecatv.com/api/{0}/vods/all?page=1&per_page=20&orderby=reg_date&field=title%2Ccontents&created=false&catchCreated=true&keyword=&months=",
+    "chzzkLive":"https://api.chzzk.naver.com/service/v1/channels/{0}"
 }
