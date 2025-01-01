@@ -20,5 +20,6 @@
     },
     "afreecaBJ":"https://chapi.sooplive.co.kr/api/{0}/vods/all?page=1&per_page=20&orderby=reg_date&field=title%2Ccontents&created=false&catchCreated=true&keyword=&months=",
     "chzzkLive":"https://api.chzzk.naver.com/service/v1/channels/{0}",
-    "chzzkLiveServer":true
+    "chzzkLiveServer":true,
+    "chzzkFastVod":1
 }
